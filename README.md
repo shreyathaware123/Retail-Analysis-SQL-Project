@@ -1,11 +1,7 @@
-# Retail-Analysis-SQL-Project
-
 # **Retail Sales Data Analysis Project**  
 
 ## **Project Description**  
 This project showcases the analysis of retail sales data to extract valuable insights using SQL. By exploring revenue trends, customer behavior, seasonal patterns, and product profitability, this project highlights actionable recommendations for improving business decisions.  
-
-This project is part of my portfolio, demonstrating the SQL skills essential for data analytics roles. If you have any questions, feedback, or would like to collaborate, feel free to connect via my social platforms!  
 
 ---
 
@@ -171,17 +167,5 @@ Retail-Sales-Data-Analysis/
 ├── recommendations.md             # Business suggestions  
 ├── README.md                      # Project overview  
 └── visuals/                       # Folder for charts and graphs  
-```  
 
----
 
-## **Author**  
-**Nikhil Mathur**  
-
-I’m a data analytics enthusiast passionate about turning raw data into actionable insights. This project is part of my portfolio, demonstrating expertise in SQL for data analysis.  
-
-- **Instagram**: [@data_analytics_with_mathur](https://www.instagram.com/data_analytics_with_mathur/)  
-- **LinkedIn**: [Nikhil Mathur](https://www.linkedin.com/in/nikhil-mathur-4600661a8/)  
-- **YouTube**: [MaturShab](https://youtube.com/@maturshab2210?si=UOhX-Z9sIK8JMvZn)  
-
-Let’s connect and grow together in the field of data analytics! 🚀
