@@ -15,4 +15,17 @@ Table of Contents
 5. Recommendations
 5. Project Structure
 
+Dataset Overview
+The dataset contains information on customer purchases and sales performance.
 
+Columns:
+sale_date: Date of the sale
+sale_time: Time of the sale
+customer_id: Unique identifier for customers
+gender: Gender of customers (Male/Female)
+age: Age of customers
+category: Product category
+quantity: Quantity purchased
+price_per_unit: Price of each unit
+cogs: Cost of goods sold
+total_sale: Total revenue generated from the sale
