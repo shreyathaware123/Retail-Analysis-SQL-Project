@@ -156,7 +156,7 @@ The following queries address key business questions and analyze retail data:
 - Target younger demographics with customized offers.  
 
 
-## Below are the drive link which includes the csv files and shows the  exact queries that i have ran in MySQL Workbench for the Retail analysis:
+## Below are the drive link which includes the csv files and shows the  exact queries that i have ran in MySQL Workbench with output for the Retail analysis:
 ![Total count of rows](https://github.com/user-attachments/assets/718bebf3-6c42-48e3-a17b-ac0629444f5c)
 ![Top customer  in each category](https://github.com/user-attachments/assets/90a45f31-c3c9-48b1-ab32-f5df33718fac)
 ![Top 5 customers contributing the most to sales](https://github.com/user-attachments/assets/9716da8c-784b-467e-8af4-f379cf83cba7)
