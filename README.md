@@ -1,4 +1,5 @@
-# **Retail Sales Data Analysis Project**  
+# **Retail Sales Data Analysis Project**       <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>
+
 
 ## **Project Description**  
 This project showcases the analysis of retail sales data to extract valuable insights using SQL. By exploring revenue trends, customer behavior, seasonal patterns, and product profitability, this project highlights actionable recommendations for improving business decisions.  
